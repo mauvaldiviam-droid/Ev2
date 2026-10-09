@@ -13,6 +13,7 @@ Proyecto de React y React Bootstrap para practicar el diseño de pruebas unitari
 npm install
 npm run dev
 ```
+npm install vitest jsdom @testing-library/react @testing-library/user-event @testing-library/jest-dom
 
 Abre la dirección que muestra Vite (normalmente `http://localhost:5173`). Para comprobar la compilación de producción:
 
